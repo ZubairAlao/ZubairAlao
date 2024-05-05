@@ -1,12 +1,12 @@
 # Hi, I'm ALAO ZUBAIR! 👋
 
-"I'm a front-end web developer with expertise in HTML, CSS, JavaScript, React, Next.js, and database management, I build responsive and interactive web pages.
+I'm a front-end web developer with expertise in HTML, CSS, JavaScript, React, Next.js, and database management, I build responsive and interactive web pages.
 
 ![ALAO ZUBAIR's Stats](https://github-readme-stats.vercel.app/api?username=ZubairAlao&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently studying Backend Language in for web Development.
+- 🔭 I'm currently studying Backend Language for web Development.
 - ✍️ Passionate Frontend Developer.
 - 🎥 Love futuristic movies
 - 💡 In love with back-end logic
