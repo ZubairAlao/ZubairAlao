@@ -4,7 +4,8 @@ I'm a front-end web developer with expertise in HTML, CSS, JavaScript, React, Ne
 
 ![ALAO ZUBAIR's Stats](https://github-readme-stats.vercel.app/api?username=ZubairAlao&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairAlao&layout=compact&card_width=448&title_color=a0c334&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/ZubairAlao)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZubairAlao&layout=compact&card_width=448&title_color=FFFFFF&text_color=FFFFFF&bg_color=120,008000,006400)](https://github.com/ZubairAlao)
+
 
 ## 🚀 About Me
 
