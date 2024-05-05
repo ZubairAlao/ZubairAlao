@@ -1,6 +1,6 @@
 # Hi, I'm ALAO ZUBAIR! 👋
 
-As a passionate web developer, I thrive on exploring the diverse realms of web development, encompassing both front-end and back-end technologies. My unwavering love for technology ignites my determination to continually push the boundaries of my capabilities. With a steadfast belief in my skills, I tackle every project with a resolute mindset geared towards success.
+"I'm a front-end web developer with expertise in HTML, CSS, JavaScript, React, Next.js, and database management, I build responsive and interactive web pages.
 
 ![ALAO ZUBAIR's Stats](https://github-readme-stats.vercel.app/api?username=ZubairAlao&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -14,7 +14,7 @@ As a passionate web developer, I thrive on exploring the diverse realms of web d
 - 💻 JavaScript addict
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css, react, firebase, mongodb, nextjs, postgres, tailwind)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 - 🚀 Learning Full Stack Web Development
@@ -36,7 +36,7 @@ As a passionate web developer, I thrive on exploring the diverse realms of web d
 
 <!--
 **ZubairAlao/ZubairAlao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+prisma py
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
