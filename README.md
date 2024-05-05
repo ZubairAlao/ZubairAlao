@@ -14,7 +14,7 @@
 - 💻 JavaScript addict
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css, react, firebase, mongodb, nextjs, postgres, tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,firebase,mongodb,nextjs,postgres,tailwind&theme=light)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 - 🚀 Learning Full Stack Web Development
