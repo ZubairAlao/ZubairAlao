@@ -1,4 +1,4 @@
-# Hi, I'm ALAO ZUBAIR! 👋
+# Hi, I'm ZUBAIR ALAO! 👋
 
 I'm a front-end web developer with expertise in HTML, CSS, JavaScript, React, Next.js, and database management, I build responsive and interactive web pages.
 
